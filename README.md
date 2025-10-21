@@ -25,6 +25,8 @@ mvn spring-boot:run
 
 La aplicación estará disponible en:  http://localhost:8080/pokemon
 
+#Tiempo estimado de desarrollo 2hr 30 minutos
+
 
 
 
